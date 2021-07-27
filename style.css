@@ -26,7 +26,7 @@
 }
 .grid {
   display: grid;
-  grid-template-columns: 380px;
+  grid-template-columns: 350px;
   border: 1px solid black;
   border-radius: 20px;
   padding: 10px;
